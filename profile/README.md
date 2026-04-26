@@ -21,3 +21,26 @@
 | **Pre-Oral Defense** | May 16-17, 2026 |
 | **Final Sprint** | May 18-30, 2026 |
 | **Final Defense** | May 30-31, 2026 |
+
+## Advisory and Panel Assignment
+
+| Team Leader |	Adviser	| Panel |
+| --- | --- | --- |
+| Jhon Loyd | Ian | Kevin |
+| Ronabel | Ian | Kevin |
+| Aaron | Ian | Kevin |
+| Vin Russel | Ian | Rain |
+| John Carlo | Ian | Rain |
+| Joshua Raphael | Ian | Rain |
+| Christian | Kevin | Rain |
+| Dave | Kevin | Rain |
+| Reymark | Kevin | Rain |
+| Ivan Carlos Roger, Ii | Kevin | Ian |
+| Justine Carl | Kevin | Ian |
+| Ryan Francis | Kevin | Ian |
+| Isabella Suzette | Rain | Kevin |
+| John Paul | Rain | Kevin |
+| Martin Laurence | Rain | Kevin |
+| Lora | Rain | Ian |
+| Jerric Jr | Rain | Ian |
+| Jhon Brayn | Rain | Ian |
