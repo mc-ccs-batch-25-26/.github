@@ -164,23 +164,23 @@
 
 ## Advisory and Panel Assignment
 
-| Team Leader |	Adviser	| Panel |
+| Team | Adviser | Panel |
 | --- | --- | --- |
-| Jhon Loyd | Ian | Kevin |
-| Ronabel | Ian | Kevin |
-| Aaron | Ian | Kevin |
-| Vin Russel | Ian | Rain |
-| John Carlo | Ian | Rain |
-| Joshua Raphael | Ian | Rain |
-| Christian | Kevin | Rain |
-| Dave | Kevin | Rain |
-| Reymark | Kevin | Rain |
-| Ivan Carlos Roger, Ii | Kevin | Ian |
-| Justine Carl | Kevin | Ian |
-| Ryan Francis | Kevin | Ian |
-| Isabella Suzette | Rain | Kevin |
-| John Paul | Rain | Kevin |
-| Martin Laurence | Rain | Kevin |
-| Lora | Rain | Ian |
-| Jerric Jr | Rain | Ian |
-| Jhon Brayn | Rain | Ian |
+| Solution Seekers Inc. | Ian | Kevin |
+| Code Strategists | Ian | Kevin |
+| InnoVision | Ian | Kevin |
+| THS 25-26 Telecomms | Ian | Rain |
+| THS 25-26 Quantara | Ian | Rain |
+| BugSplat | Ian | Rain |
+| Toga O Togue | Kevin | Rain |
+| 404 Name Not Found | Kevin | Rain |
+| Team O | Kevin | Rain |
+| But It Works, We Swear | Kevin | Ian |
+| THS 25-26 ResQtech | Kevin | Ian |
+| THS 25-26 MCDev | Kevin | Ian |
+| AcaTrack | Rain | Kevin |
+| Team POL Jump | Rain | Kevin |
+| PataTeam | Rain | Kevin |
+| THS 25-26 Ctrl Alt Elite | Rain | Ian |
+| BOARDIFY | Rain | Ian |
+| THS 25-26 Fork Force | Rain | Ian |
