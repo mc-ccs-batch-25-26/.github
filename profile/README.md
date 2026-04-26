@@ -169,18 +169,18 @@
 | Solution Seekers Inc. | Ian | Kevin |
 | Code Strategists | Ian | Kevin |
 | InnoVision | Ian | Kevin |
-| THS 25-26 Telecomms | Ian | Rain |
-| THS 25-26 Quantara | Ian | Rain |
+| Telecomms | Ian | Rain |
+| Quantara | Ian | Rain |
 | BugSplat | Ian | Rain |
 | Toga O Togue | Kevin | Rain |
 | 404 Name Not Found | Kevin | Rain |
 | Team O | Kevin | Rain |
 | But It Works, We Swear | Kevin | Ian |
-| THS 25-26 ResQtech | Kevin | Ian |
-| THS 25-26 MCDev | Kevin | Ian |
+| ResQtech | Kevin | Ian |
+| MCDev | Kevin | Ian |
 | AcaTrack | Rain | Kevin |
 | Team POL Jump | Rain | Kevin |
 | PataTeam | Rain | Kevin |
-| THS 25-26 Ctrl Alt Elite | Rain | Ian |
+| Ctrl Alt Elite | Rain | Ian |
 | BOARDIFY | Rain | Ian |
-| THS 25-26 Fork Force | Rain | Ian |
+| Fork Force | Rain | Ian |
