@@ -164,23 +164,23 @@
 
 ## Advisory and Panel Assignment
 
-| Team | Adviser | Panel |
-| --- | --- | --- |
-| Solution Seekers Inc. | Ian | Kevin |
-| Code Strategists | Ian | Kevin |
-| InnoVision | Ian | Kevin |
-| Telecomms | Ian | Rain |
-| Quantara | Ian | Rain |
-| BugSplat | Ian | Rain |
-| Toga O Togue | Kevin | Rain |
-| 404 Name Not Found | Kevin | Rain |
-| Team O | Kevin | Rain |
-| But It Works, We Swear | Kevin | Ian |
-| ResQtech | Kevin | Ian |
-| MCDev | Kevin | Ian |
-| AcaTrack | Rain | Kevin |
-| Team POL Jump | Rain | Kevin |
-| PataTeam | Rain | Kevin |
-| Ctrl Alt Elite | Rain | Ian |
-| BOARDIFY | Rain | Ian |
-| Fork Force | Rain | Ian |
+| Team | Adviser | Panel | Document | System |
+| --- | --- | --- | --- | --- |
+| Solution Seekers Inc. | Ian | Kevin | https://github.com/mc-ccs-batch-25-26/documentation-repository-solution-seekers-inc | - |
+| Code Strategists | Ian | Kevin | https://github.com/mc-ccs-batch-25-26/documentation-repository-code-strategists | - |
+| InnoVision | Ian | Kevin | https://github.com/mc-ccs-batch-25-26/documentation-repository-innovision | - |
+| Telecomms | Ian | Rain | https://github.com/mc-ccs-batch-25-26/documentation-repository-ths-25-26-telecomms | - |
+| Quantara | Ian | Rain | https://github.com/mc-ccs-batch-25-26/documentation-repository-ths-25-26-quantara-1 | - |
+| BugSplat | Ian | Rain | https://github.com/mc-ccs-batch-25-26/documentation-repository-ths-25-26-bugsplat | - |
+| Toga O Togue | Kevin | Rain | https://github.com/mc-ccs-batch-25-26/documentation-repository-toga-o-togue | - |
+| 404 Name Not Found | Kevin | Rain | https://github.com/mc-ccs-batch-25-26/documentation-repository-404-namenotfound | - |
+| Team O | Kevin | Rain | https://github.com/mc-ccs-batch-25-26/documentation-repository-team-o-1 | - |
+| But It Works, We Swear | Kevin | Ian | https://github.com/mc-ccs-batch-25-26/documentation-repository-ths-25-26-but-it-works-we-swear | - |
+| ResQtech | Kevin | Ian | https://github.com/mc-ccs-batch-25-26/documentation-repository-ths-25-26-resqtech | - |
+| MCDev | Kevin | Ian | https://github.com/mc-ccs-batch-25-26/documentation-repository-ths-25-26-mcdev | - |
+| AcaTrack | Rain | Kevin | https://github.com/mc-ccs-batch-25-26/documentation-repository-acatrack-2 | - |
+| Team POL Jump | Rain | Kevin | http://github.com/mc-ccs-batch-25-26/documentation-repository-team-pol-jump | - |
+| PataTeam | Rain | Kevin | https://github.com/mc-ccs-batch-25-26/documentation-repository-patateam-1 | - |
+| Ctrl Alt Elite | Rain | Ian | https://github.com/mc-ccs-batch-25-26/documentation-repository-ths-25-26-ctrl-alt-elite | - |
+| BOARDIFY | Rain | Ian | https://github.com/mc-ccs-batch-25-26/documentation-repository-ths-25-26-boardify | - |
+| Fork Force | Rain | Ian | https://github.com/mc-ccs-batch-25-26/documentation-repository-ths-25-26-fork-force | - |
