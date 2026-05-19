@@ -166,7 +166,7 @@
 
 | Team | Adviser | Panel | Document | System |
 | --- | --- | --- | --- | --- |
-| Solution Seekers Inc. | Ian | Kevin | https://github.com/mc-ccs-batch-25-26/documentation-repository-solution-seekers-inc | https://github.com/mc-ccs-batch-25-26/system-repository-solution-seekers-inc |
+| Solution Seekers Inc. | Ian | Kevin | (📄)[https://github.com/mc-ccs-batch-25-26/documentation-repository-solution-seekers-inc] | https://github.com/mc-ccs-batch-25-26/system-repository-solution-seekers-inc |
 | Code Strategists | Ian | Kevin | https://github.com/mc-ccs-batch-25-26/documentation-repository-code-strategists | https://github.com/mc-ccs-batch-25-26/system-repository-code-strategists |
 | InnoVision | Ian | Kevin | https://github.com/mc-ccs-batch-25-26/documentation-repository-innovision | https://github.com/mc-ccs-batch-25-26/system-repository-innovision |
 | Telecomms | Ian | Rain | https://github.com/mc-ccs-batch-25-26/documentation-repository-ths-25-26-telecomms | https://github.com/mc-ccs-batch-25-26/system-repository-ths-25-26-telecomms |
