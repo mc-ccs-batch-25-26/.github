@@ -126,9 +126,7 @@
     1. Magcheco, Martin Laurence
     2. Marqueses, Ralph
     3. Casco, John Michael
-    4. Malabag, Kenn Jovann
-    5. Espana, Steve
-    6. Avila, Valient Anjo
+    4. Avila, Valient Anjo
 
 * [Solution Seekers Inc.](https://github.com/orgs/mc-ccs-batch-25-26/teams/solution-seekers-inc)
     1. Canaria, Jhon Loyd
@@ -180,7 +178,7 @@
 | MCDev | Kevin | Ian | MCEvent: An Automated Event & Activity Management System for the SSC & Central Council of Mabini Colleges | [📄](https://github.com/mc-ccs-batch-25-26/documentation-repository-ths-25-26-mcdev) [📦](http://github.com/mc-ccs-batch-25-26/system-repository-ths-25-26-mcdev) |
 | AcaTrack | Rain | Kevin | E-CAO (Electronic Community Affairs Office): Enhancing a Localized Scholar Management System for CNPGCEAP | [📄](https://github.com/mc-ccs-batch-25-26/documentation-repository-acatrack-2) [📦](https://github.com/mc-ccs-batch-25-26/system-repository-acatrack-1) |
 | Team POL Jump | Rain | Kevin | CyberGuard: A School-Based Cybercrime Incident Reporting and Awareness System Among Students of Mabini Colleges High School Department | [📄](http://github.com/mc-ccs-batch-25-26/documentation-repository-team-pol-jump) [📦](https://github.com/mc-ccs-batch-25-26/system-repository-team-pol-jump) |
-| PataTeam | Rain | Kevin | ❗ No approved title | [📄](https://github.com/mc-ccs-batch-25-26/documentation-repository-patateam-1) [📦](https://github.com/mc-ccs-batch-25-26/system-repository-patateam) |
+| PataTeam | Rain | Kevin | ❗ Web-Based Employment Management System for PESO Daet | [📄](https://github.com/mc-ccs-batch-25-26/documentation-repository-patateam-1) [📦](https://github.com/mc-ccs-batch-25-26/system-repository-patateam) |
 | Ctrl Alt Elite | Rain | Ian | TicketEase: A Digital Helpdesk Ticketing Platform for Institutional Academic Transactions | [📄](https://github.com/mc-ccs-batch-25-26/documentation-repository-ths-25-26-ctrl-alt-elite) [📦](http://github.com/mc-ccs-batch-25-26/system-repository-ths-25-26-ctrl-alt-elite) |
 | BOARDIFY | Rain | Ian | BOARDIFY: An Android-Based Platform for Tenant-Landlord Management System | [📄](https://github.com/mc-ccs-batch-25-26/documentation-repository-ths-25-26-boardify) [📦](https://github.com/mc-ccs-batch-25-26/system-repository-ths-25-26-boardify) |
 | Fork Force | Rain | Ian | SmartBarangay:A Web Unified E-Governance System | [📄](https://github.com/mc-ccs-batch-25-26/documentation-repository-ths-25-26-fork-force) [📦](http://github.com/mc-ccs-batch-25-26/system-repository-ths-25-26-fork-force) |
